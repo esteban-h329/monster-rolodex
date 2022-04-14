@@ -6,10 +6,11 @@ I just wanna record all the process learning react and create this basic project
 *Render
 *Function components
 *class components
-*Life cycle components
+*Lifecycle Methods
 *Fetch
 *Promises
 *Optimizations
-\*Events
+*Events
+*Key propertys
 
 -
