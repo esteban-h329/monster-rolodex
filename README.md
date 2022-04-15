@@ -11,4 +11,4 @@ Fetch
 Promises
 Optimizations
 Events
-Key propertys
+Key properties
